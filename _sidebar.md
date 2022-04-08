@@ -1,11 +1,14 @@
 - [Home](/)
 - Commands
-    * [print](/Commands/print.md)
-    * [set](/Commands/set.md)
-    * [resetvar](/Commands/resetvar.md)
-    * [add](/Commands/add.md)
-    * [sub](/Commands/sub.md)
-    * [mul](/Commands/mul.md)
-    * [div](/Commands/div.md)
-    * [pow](/Commands/pow.md)
-    * [mod](/Commands/mod.md)
+    - Generic Commands
+        * [print](/Commands/print.md)
+        * [set](/Commands/set.md)
+    - Operators
+        * [add](/Commands/add.md)
+        * [sub](/Commands/sub.md)
+        * [mul](/Commands/mul.md)
+        * [div](/Commands/div.md)
+        * [pow](/Commands/pow.md)
+        * [mod](/Commands/mod.md)
+    - Deprecated
+        * [resetvar](/Commands/resetvar.md)

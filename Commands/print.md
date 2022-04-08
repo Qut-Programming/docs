@@ -4,6 +4,7 @@
 
 ## Info
 
+#### Status: Added
 #### Values: 1
 #### Returns: `value1`
 ###### *!before:* `value1`

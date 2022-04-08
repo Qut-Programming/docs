@@ -4,6 +4,7 @@
 
 ## Info
 
+#### Status: Deprecated
 #### Values: 1
 #### Returns: *[Deprecation Message](/Commands/resetvar.md?id=deprecation)*
 ###### *!before:* Value of variable before reset
