@@ -1,6 +1,6 @@
 # Print
 
-#### Prints out a value in console, useful for debugging.
+#### Prints out a value to the standard output, useful for debugging.
 
 ## Info
 

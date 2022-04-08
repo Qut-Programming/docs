@@ -1,6 +1,6 @@
 # Set
 
-#### Sets a variable to a value.
+#### Declares and initializes a variable to a value.
 
 ## Info
 
