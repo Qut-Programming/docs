@@ -11,4 +11,4 @@
         * [pow](/Commands/pow.md)
         * [mod](/Commands/mod.md)
     - Deprecated
-        * [resetvar](/Commands/resetvar.md)
+        * None

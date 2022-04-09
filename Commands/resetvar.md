@@ -4,32 +4,14 @@
 
 ## Info
 
-#### Status: Deprecated
+#### Status: Deleted
 #### Values: 1
-#### Returns: *[Deprecation Message](/Commands/resetvar.md?id=deprecation)*
+#### Returns: *Unknown Command Error*
 ###### *!before:* Value of variable before reset
 
-## Code
+## Deletion
 
-### Usage
-```qut
-resetvar {value1}
-```
-### Example
-```qut
-INPUT:
-set test\"test"
-resetvar test
-print test
-
-OUTPUT:
-You are not allowed to set Important Variables! (Line {line}, File '{filename}')
-undefined
-```
-
-## Deprecation
-
-#### This command will be removed in a future release as there is no purpose of the command
+#### This command has been removed as there is no purpose of it
 
 ### Alternatives
 
